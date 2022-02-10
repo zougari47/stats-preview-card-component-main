@@ -41,7 +41,7 @@ Users should be able to:
 - HTML
 - CSS custom properties
 - Flexbox
-- Mobile-first workflowstyles
+- Mobile-first workflow
 
 ### What I learned
 
